@@ -1,0 +1,22 @@
+{
+  "name": "coffi",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/deloluv/Coffi.git"
+  },
+  "author": "deloluv",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/deloluv/Coffi/issues"
+  },
+  "homepage": "https://github.com/deloluv/Coffi#readme",
+  "dependencies": {
+    "discord.js": "^13.6.0"
+  }
+}
